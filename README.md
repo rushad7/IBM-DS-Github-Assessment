@@ -1,2 +1,2 @@
 # IBM-DS-Github-Assessment
-This repo is for the IBM Data Science Capstone Project.
+This repo is for the IBM Data Science Capstone Project Assessment
